@@ -1,4 +1,4 @@
-public class Main {
+public class sort ele {
     public static void main(String[] args){
         int arr[] = {20,5,25,6,40};
         int n = 5;
